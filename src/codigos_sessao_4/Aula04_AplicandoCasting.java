@@ -1,8 +1,5 @@
 package codigos_sessao_4;
 
-// Importação da biblioteca Locale.
-import java.util.Locale;
-
 public class Aula04_AplicandoCasting {
 
 	public static void main(String[] args) {
