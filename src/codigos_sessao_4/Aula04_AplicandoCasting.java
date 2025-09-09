@@ -20,7 +20,6 @@ public class Aula04_AplicandoCasting {
 		
 		// Exibição do resultado.
 		System.out.println(resultado);
-	}
-	
+	}	
 	
 }
