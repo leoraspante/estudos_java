@@ -1,0 +1,21 @@
+# Diretórios gerados
+bin/
+target/
+out/
+
+# Arquivos compilados
+*.class
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Arquivos da IDE Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
