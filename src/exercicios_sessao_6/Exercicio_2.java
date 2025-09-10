@@ -49,6 +49,9 @@ public class Exercicio_2 {
 		
 		// Fora do loop while, mensagem de encerramento.
 		System.out.println("Fim do programa.");
+		
+		// Fechamento do comando Scanner.
+		input.close();
 	}
 
 }
