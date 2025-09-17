@@ -1,4 +1,4 @@
-// Exemplo de programa que realiza a conversão de escala Celsius para Farenheit.
+// Exemplo de programa que realiza a conversão de escala Celsius para Fahrenheit.
 
 package codigos_sessao_6;
 
@@ -20,7 +20,7 @@ public class Aula_06_Do_While {
 		
 		// Mensagem de apresentação do programa.
 		System.out.println("Conversor de Escalas");
-		System.out.println("Celsius para Farenheit");
+		System.out.println("Celsius para Fahrenheit");
 		System.out.println();
 				
 		// Declaração de variável para permitir a continuidade do programa.
