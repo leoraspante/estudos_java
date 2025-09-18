@@ -73,12 +73,5 @@ public class Criando_Funcoes {
 	public static void showResult(int value) {
 		System.out.println("Higher = " + value);
 	}
-	
-	
-	
-	
-	
-	
-	
-	
+		
 }
